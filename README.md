@@ -16,6 +16,8 @@ EasySharing is a simple and lightweight application designed to make file sharin
 
 Feel free to explore, use, or contribute to the project. Feedback and suggestions are always welcome!
 
+Serial Number:
+"LKJH2-8SDKF-9WER3-MNBV8-TRT54W"
 ---
 
 🇮🇩 **Bahasa Indonesia**:  
